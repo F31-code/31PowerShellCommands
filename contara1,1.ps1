@@ -1,4 +1,4 @@
-$loopCount = 0
+ $loopCount = 0
 do{
     $answer = Read-Host "Input a number 1 - 10" 
 
