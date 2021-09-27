@@ -1,4 +1,4 @@
-# Script that counts based on an operator
+# Script that loops a question until you guess its predefined answer
  $loopCount = 0
 do{
     $answer = Read-Host "Input a number 1 - 10" 
