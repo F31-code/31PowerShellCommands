@@ -1,3 +1,4 @@
+# Script that counts based on an operator
  $loopCount = 0
 do{
     $answer = Read-Host "Input a number 1 - 10" 
